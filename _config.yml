@@ -79,7 +79,7 @@ facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: https://ieeexplore.ieee.org/author/37087117138
+ieee_id: 37087117138
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -88,14 +88,14 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0003-0277-9401
+orcid_id: 0000-0003-0277-9401
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
 scholar_userid: OCTHQj4AAAAJ # your Google Scholar ID
-scopus_id: https://www.scopus.com/authid/detail.uri?authorId=57215358506
+scopus_id: 57215358506
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
