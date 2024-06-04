@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant professor,<a href=https://ptuk.edu.ps/en/faculties/department.php?name=computer-systems-engineering>Computer System Engineering Department</a>. PTUK. 
 
 profile:
   align: right
