@@ -21,7 +21,7 @@ I am an Assistant Professor in the Computer System Engineering department at Pal
 
 Additionally, I have conducted extensive analysis and cryptanalysis of various symmetric and asymmetric cryptosystems, including developing [a ciphertext-only attack on RSA using lattice basis reduction](https://iajit.org/PDF/Vol%2018,%20No.%202/19701.pdf). My research aims to enhance the robustness of these systems against potential vulnerabilities, ensuring their reliability and security in real-world applications. 
 
-Before my PhD, I completed a master's degree in Electronics and Computer Engineering from [Al-Quds University](https://www.alquds.edu/en/), where I developed a secure protocol for wireless mesh networks and a bachelor's degree in Electrical Engineering from Palestine Technical College.
+Before my PhD, I completed a master's degree in Electronics and Computer Engineering from [Al-Quds University](https://www.alquds.edu/en/), and a bachelor's degree in Electrical Engineering from Palestine Technical College.
 
 My main research interests are in the design and analysis of cryptographic algorithms and cybersecurity protocols, their applications, and the formulation and proof of their security properties. Specific areas I have worked on include lattice-based cryptography and cryptographic primitives with extra functionality, such as homomorphic encryption. 
 
