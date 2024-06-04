@@ -79,7 +79,7 @@ facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: 37087117138
+ieee_id: #
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -130,9 +130,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: #al-folio # blog_name will be displayed in your blog page
+blog_description: #a simple whitespace theme for academics
+permalink: #/blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
