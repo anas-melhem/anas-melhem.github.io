@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant professor,<a href=https://ptuk.edu.ps/en/faculties/department.php?name=computer-systems-engineering>Computer System Engineering Department</a>. PTUK. 
+subtitle: Assistant professor, <a href=https://ptuk.edu.ps/en/faculties/department.php?name=computer-systems-engineering>Computer System Engineering Department. PTUK</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computer System </p>
+    <p>Engineering, PTUK</p>
+    <p>Palestine</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
