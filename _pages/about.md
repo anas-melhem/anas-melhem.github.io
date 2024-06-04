@@ -17,8 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-yyyyyWrite your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently work as Assistant Professor in the Computer System Engineering department at Palestine Technical University, with a PhD in Computer Engineering from Eastern Mediterranean University, North Cyprus. My academic journey also includes a master's degree in Electronics and Computer Engineering from Al-Quds University, where I developed a secure protocol for wireless mesh networks, and a bachelor's degree in Electrical Engineering from Palestine Technical College.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My exprties lies in the mathematical aspectes of cybersecurity, specifically cryptography. My work centers on posat-quantum cryptography (particularly from lattices), privacy preserving technologies, such as homomorphism, and updatable encryptions. I apply these methods to develop critical security features like confidentiality, integrity, privacy, anonymity, and accountability in real-world applications. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Additionally, I have extensive experience in the analysis and cryptanalysis of various symmetric and asymmetric cryptosystems. My research aims to enhance the robustness of these systems against potential vulnerabilities, ensuring their reliability and security in real-world applications.
+
+I am also actively seeking opportunities for research collaboration. Feel free to contact me via [email](mailto:a.melhem@ptuk.edu.ps) to discuss potential partnerships. 
