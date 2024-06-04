@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
-    <p>Computer System </p>
-    <p>Engineering, PTUK</p>
+    <p>Computer System Engineering,</p>
+    <p>Palestine Technical University,</p>
     <p>Palestine</p>
 
 news: true # includes a list of news items
