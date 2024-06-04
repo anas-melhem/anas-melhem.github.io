@@ -7,7 +7,7 @@ subtitle: Assistant professor, <a href=https://ptuk.edu.ps/en/faculties/departme
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
     <p>Computer System Engineering,</p>
     <p>Palestine Technical University, Palestine</p>
