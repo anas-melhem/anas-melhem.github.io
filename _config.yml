@@ -303,7 +303,7 @@ scholar:
   last_name: [Einstein, Ibrahim, Melhem]
   first_name: [Anas, A., Anas M.]
 
-  style: IEEE
+  style: apa
   locale: en
 
   source: /_bibliography/
