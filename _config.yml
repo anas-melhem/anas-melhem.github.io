@@ -301,7 +301,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Einstein, Ibrahim, Melhem]
-  first_name: [Anas, A., Anas M.]
+  first_name: [Anas]
 
   style: apa
   locale: en
