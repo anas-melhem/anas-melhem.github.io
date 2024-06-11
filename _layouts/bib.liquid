@@ -13,7 +13,7 @@
             class="badge rounded w-100"
             {% if venue_style %}
               {{ venue_style }}
-            {% endif -%}  
+            {% endif -%}
           >
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
@@ -25,9 +25,9 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
-      {% if entry.preview %} 
+      {% if entry.preview %}
         {% if entry.preview contains '://' %}
-         <a href="{{ entry.preview }}"> <img width="100%" class="preview z-depth-1 rounded" src="{{ entry.preview }}"></a>
+          <a href="{{ entry.preview }}"> <img width="100%" class="preview z-depth-1 rounded" src="{{ entry.preview }}"></a>
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
