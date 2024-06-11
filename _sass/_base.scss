@@ -705,28 +705,7 @@ footer.sticky-bottom {
 
 
 
-      .abbr2 {
-        margin-bottom: 0.5rem;
-
-        abbr2 {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
-
-          a {
-            color: green;
-
-            &:hover {
-              text-decoration: none;
-            }
-          }
-        }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
-      }
+      
 
 
       
