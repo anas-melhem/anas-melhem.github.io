@@ -10,7 +10,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
-An updated list of publications is available on <a href="https://scholar.google.com/citations?user=OCTHQj4AAAAJ">Google Scholar</a>.
+An updated list is available on <a href="https://scholar.google.com/citations?user=OCTHQj4AAAAJ">Google Scholar</a>.
 {% bibliography %}
 
 </div>
