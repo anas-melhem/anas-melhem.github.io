@@ -4,11 +4,13 @@
 "IJCIS":
   url: https://wireilla.com/ijcis/
 
-  "Sensors":
-    url: https://www.mdpi.com/journal/sensors
+"Sensors":
+  url: https://www.mdpi.com/journal/sensors
 
-    "ICTCS":
-      url: https://ictcs.psut.edu.jo/
+"ICTCS":
+  url: https://ictcs.psut.edu.jo/
+"IJISR":
+  url: https://infonomics-society.org/ijisr/
 
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
