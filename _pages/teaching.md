@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: This page contains a list of courses I taught or am teaching.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+The following are undergraduate courses I have been teaching recently at PTUK University.
 
-Organize your courses by years, topics, or universities, however you like!
+1. 12140527 - Cryptography and Network Security
+2. 12140312 - Computer Networks
+3. 12140535 - Data Mining
+4. 12140204 - Discrete Mathematics 
+	
