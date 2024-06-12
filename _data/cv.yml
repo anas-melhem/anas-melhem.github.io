@@ -16,7 +16,6 @@
         - title: Description 3.
           contents:
             - Designed and implemented <a href="https://www.mdpi.com/1424-8220/20/16/4632" target="_blank">RCPKC</a>, a novel cryptographic algorithm offering 27x improvement in efficiency and security compared to NTRU. This significant advancement stems from RCPKC's resistance to lattice-based attacks, a critical vulnerability in NTRU.
-.
             - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
