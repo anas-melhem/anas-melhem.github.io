@@ -10,7 +10,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
-An updated list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=OCTHQj4AAAAJ).
+An updated list of publications is available on <ahref="http://www.google.com>sfsd</a>[Google Scholar](https://scholar.google.com/citations?user=OCTHQj4AAAAJ).
 {% bibliography %}
 
 </div>
