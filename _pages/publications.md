@@ -3,11 +3,11 @@ layout: page
 permalink: /publications/
 title: publications
 
-description: Updated list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=OCTHQj4AAAAJ). Publications by categories in reversed chronological order.
+description: Updated list of publications can be found on <ahref="https://scholar.google.com/citations?user=OCTHQj4AAAAJ"> Google Scholar</a>. Publications by categories in reversed chronological order.
 nav: true
 nav_order: 2
 ---
-
+Updated list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=OCTHQj4AAAAJ). Publications by categories in reversed chronological order.
 <!-- _pages/publications.md -->
 <div class="publications">
 
