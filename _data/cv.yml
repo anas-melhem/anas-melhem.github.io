@@ -16,7 +16,7 @@
           contents:
             - Designed and implemented <a href="https://www.mdpi.com/1424-8220/20/16/4632" target="_blank">RCPKC</a>, a novel public key cryptosystem offering a remarkable 27x efficiency improvement and superior security over NTRU. This achievement stems from RCPKC's inherent resistance to lattice-based attacks, a critical vulnerability in NTRU.
             - Analyzed the security of NTRU and identified a critical vulnerability, leading to the design of the <a href="https://infonomics-society.org/wp-content/uploads/ijisr/published-papers/volume-6-2016/NTRU-Modulo-p-Flaw.pdf" target="_blank">NTRU mod p</a> attack. This attack exploits this weakness, allowing for the potential decryption of messages without the private key.
-            - Analyzed the security of RSA and designed a novel <a herf="" target="_blank">ciphertext-only attack</a>. This attack exploits the possibility of finding RSA-encrypted messages as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
+            - Analyzed the security of RSA and designed a novel <a herf="" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
