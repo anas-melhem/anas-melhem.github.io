@@ -12,5 +12,4 @@ The following are undergraduate courses I have been teaching recently at PTUK Un
 1. 12140527 - Cryptography and Network Security
 2. 12140312 - Computer Networks
 3. 12140535 - Data Mining
-4. 12140204 - Discrete Mathematics 
-	
+4. 12140204 - Discrete Mathematics
