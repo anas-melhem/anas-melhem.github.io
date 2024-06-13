@@ -54,7 +54,6 @@
             - Analyzed the security of RSA and designed a novel <a href="https://doi.org/10.34028/iajit/18/2/13" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
             - Analyzed the security of RSA and designed a novel <a href="https://doi.org/10.34028/iajit/18/2/13" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
             - Analyzed the security of RSA and designed a novel <a href="https://doi.org/10.34028/iajit/18/2/13" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
-            
 
 - title: Academic Interests
   type: nested_list
