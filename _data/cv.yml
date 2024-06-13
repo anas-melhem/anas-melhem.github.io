@@ -18,22 +18,24 @@
             - Analyzed the security of NTRU and identified a critical vulnerability, leading to the design of the <a href="https://infonomics-society.org/wp-content/uploads/ijisr/published-papers/volume-6-2016/NTRU-Modulo-p-Flaw.pdf" target="_blank">NTRU mod p</a> attack. This attack exploits this weakness, allowing for the potential decryption of messages without the private key.
             - Analyzed the security of RSA and designed a novel <a href="https://doi.org/10.34028/iajit/18/2/13" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
   
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
     - title: Assistant Professor
       institution: Computer Systems Engineering Dept., Palestine Tech. University. 
       year: 2021 - present
-      
+      description:
+        - Conducting cutting-edge research.
+        - Teaching multiple courses.
+        - Participating in various committees to revise and update department course descriptions and prepare proposals for accrediting new programs.
+
     - title: Lecturer
       institution: Computer Systems Engineering Dept., Palestine Tech. University. 
       year: 2016 - 2021
-      
-    - title: Research Assistant
-      institution: Computer Engineering Dept., Eastern Mediterranean Univeristy, North Cyprus.
-      year: 2016 - 2018
-
-- title: Open Source Projects
+      description:
+        - Teaching multiple courses.
+        
+- title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
