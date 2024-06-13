@@ -38,20 +38,19 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: <a href="https://erasmus-plus.ec.europa.eu/projects/search/details/574063-EPP-1-2016-1-IT-EPPKA2-CBHE-JP" target="_blank">Pathway in Forensic Computing (FORC)</a>
+      year: 2017-2020
+      description: 
+      - The FORC project aims to develop integrated forensic computing curricula for undergraduate IT and Law degrees using a student-centered adaptive learning approach based on the Bologna Process. This initiative will harmonize new courses across four universities in Palestine and Jordan, addressing multidisciplinary needs. By emphasizing forensic computing in education and professional practice, the project promotes evidence-based practices, establishes forensic labs, and enhances faculty capacity, ensuring sustainable and lasting impact.
+      - title: Partners:
+        items:
+          - <a href="" target="_blank">Middlesex University London,</a>
+          - <a href="" target="_blank">Dublin City University,</a>
+          - <a href="" target="_blank">Al-Quds University,</a>
+          - **<a href="" target="_blank">Palestine Technical University - Kadoorie,</a>**
+          - <a href="" target="_blank"></a>
+          - <a href="" target="_blank"></a>
+          - <a href="" target="_blank"></a>
 
 - title: Academic Interests
   type: nested_list
