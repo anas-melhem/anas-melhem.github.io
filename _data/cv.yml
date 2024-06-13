@@ -46,11 +46,11 @@
           contents:
             - <a href="https://www.mdx.ac.uk/" target="_blank">Middlesex University London</a>,
             - <a href="https://www.dcu.ie/" target="_blank">Dublin City University</a>,
-            - .<a href="http://www.alquds.edu/en" target="_blank">Al-Quds University</a>,
-            - .<a href="http://www.ptuk.edu.ps/index.php?en=en" target="_blank"><strong>Palestine Technical University - Kadoorie</strong></a>,
-            - .<a href="https://www.ju.edu.jo/" target="_blank">The University of Jordan</a>,
-            - .<a href="http://www.psut.edu.jo/" target="_blank">Princess Sumaya University for Technology</a>,
-            - .<a href="http://www.asd.ps/en_US/my-page/" target="_blank">Al Andalus Software Development (ASD)</a>.
+            - <a href="http://www.alquds.edu/en" target="_blank">Al-Quds University</a>,
+            - <a href="http://www.ptuk.edu.ps/index.php?en=en" target="_blank"><strong>Palestine Technical University - Kadoorie</strong></a>,
+            - <a href="https://www.ju.edu.jo/" target="_blank">The University of Jordan</a>,
+            - <a href="http://www.psut.edu.jo/" target="_blank">Princess Sumaya University for Technology</a>,
+            - <a href="http://www.asd.ps/en_US/my-page/" target="_blank">Al Andalus Software Development (ASD)</a>.
 
 - title: Academic Interests
   type: nested_list
