@@ -46,11 +46,15 @@
           contents:
             - <a href="https://www.mdx.ac.uk/" target="_blank">Middlesex University London</a>,
             - <a href="https://www.dcu.ie/" target="_blank">Dublin City University</a>,
-            - <a href="http://www.alquds.edu/en" target="_blank">Al-Quds University</a>,
             - <a href="http://www.ptuk.edu.ps/index.php?en=en" target="_blank"><strong>Palestine Technical University - Kadoorie</strong></a>,
+            - <a href="http://www.alquds.edu/en" target="_blank">Al-Quds University</a>,
             - <a href="https://www.ju.edu.jo/" target="_blank">The University of Jordan</a>,
             - <a href="http://www.psut.edu.jo/" target="_blank">Princess Sumaya University for Technology</a>,
             - <a href="http://www.asd.ps/en_US/my-page/" target="_blank">Al Andalus Software Development (ASD)</a>.
+        - title: "My role:"
+          contents:
+            - Contributed to the writing of the chapter <strong>Digital Forensics Evidence Acquisition</strong> in the book <a href="https://ec.europa.eu/programmes/erasmus-plus/project-result-content/e93349e8-5263-4422-9d03-603244210068/FORC_Book_5.pdf">Digital Investigation Techniques and Tools</a>.
+            - Participated in several technical workshops in Palestine and Jordan, sharing insights and collaborating with experts in the field.
 
 - title: Academic Interests
   type: nested_list
