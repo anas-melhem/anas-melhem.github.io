@@ -44,10 +44,10 @@
         - The FORC project aims to develop integrated forensic computing curricula for undergraduate IT and Law degrees using a student-centered adaptive learning approach based on the Bologna Process. This initiative will harmonize new courses across four universities in Palestine and Jordan, addressing multidisciplinary needs. By emphasizing forensic computing in education and professional practice, the project promotes evidence-based practices, establishes forensic labs, and enhances faculty capacity, ensuring sustainable and lasting impact.
         - title: "Partners:"
           contents:
-            - <a href="https://www.mdx.ac.uk/" target="_blank">Middlesex University London,</a>
-            - <a href="https://www.dcu.ie/" target="_blank">Dublin City University,</a>
-            - <a href="http://www.alquds.edu/en" target="_blank">Al-Quds University,</a>
-            - **<a href="http://www.ptuk.edu.ps/index.php?en=en" target="_blank">Palestine Technical University - Kadoorie,</a>**
+            - xx<a href="https://www.mdx.ac.uk/" target="_blank">Middlesex University London,</a>
+            - xx<a href="https://www.dcu.ie/" target="_blank">Dublin City University,</a>
+            - xx<a href="http://www.alquds.edu/en" target="_blank">Al-Quds University,</a>
+            - xx**<a href="http://www.ptuk.edu.ps/index.php?en=en" target="_blank">Palestine Technical University - Kadoorie,</a>**
             - Analyzed the security of RSA and designed a novel <a href="https://doi.org/10.34028/iajit/18/2/13" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
             - Analyzed the security of RSA and designed a novel <a href="https://doi.org/10.34028/iajit/18/2/13" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
             - Analyzed the security of RSA and designed a novel <a href="https://doi.org/10.34028/iajit/18/2/13" target="_blank">ciphertext-only attack</a>. The attack finds the RSA encrypted message as the shortest vector in a 2-dimensional lattice. Experimental results demonstrated the effectiveness of the attack, successfully decrypting thousands of messages with key sizes up to 8193 bits.
