@@ -56,19 +56,19 @@
             - Writing the chapter <strong>Digital Forensics Evidence Acquisition</strong> in the book <a href="https://ec.europa.eu/programmes/erasmus-plus/project-result-content/e93349e8-5263-4422-9d03-603244210068/FORC_Book_5.pdf">Digital Investigation Techniques and Tools</a>.
             - Participated in several technical workshops in Palestine and Jordan, sharing insights and collaborating with experts in the field.
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Cryptography
+      items: 
+        - Post-quantum (a.k.a. quantum-safe) cryptography
+        - Lattice-based cryptography
+        - Hash-based cryptography
+        - Privacy-Enhancing Technologies (PETs)
+        - Zero-knowledge proofs
+        - Quantum security analysis
+    - title: Blockchain
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Applications of above cryptographic schemes
+        - Efficient consensus
+        - Leader election
