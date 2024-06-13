@@ -60,7 +60,7 @@
   type: nested_list
   contents:
     - title: Cryptography
-      items: 
+      items:
         - Post-quantum (a.k.a. quantum-safe) cryptography
         - Lattice-based cryptography
         - Hash-based cryptography
