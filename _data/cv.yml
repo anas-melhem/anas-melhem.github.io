@@ -43,7 +43,7 @@
       description: 
         - The FORC project aims to develop integrated forensic computing curricula for undergraduate IT and Law degrees using a student-centered adaptive learning approach based on the Bologna Process. This initiative will harmonize new courses across four universities in Palestine and Jordan, addressing multidisciplinary needs. By emphasizing forensic computing in education and professional practice, the project promotes evidence-based practices, establishes forensic labs, and enhances faculty capacity, ensuring sustainable and lasting impact.
         - title: Partners:
-        items:
+        contents:
           - <a href="https://www.mdx.ac.uk/" target="_blank">Middlesex University London,</a>
           - <a href="https://www.dcu.ie/" target="_blank">Dublin City University,</a>
           - <a href="http://www.alquds.edu/en" target="_blank">Al-Quds University,</a>
@@ -51,7 +51,6 @@
           - <a href="https://www.ju.edu.jo/" target="_blank">The University of Jordan,</a>
           - <a href="http://www.psut.edu.jo/" target="_blank">Princess Sumaya University for Technology,</a>
           - <a href="http://www.asd.ps/en_US/my-page/" target="_blank">Al Andalus Software Development (ASD).</a>
-
 - title: Academic Interests
   type: nested_list
   contents:
