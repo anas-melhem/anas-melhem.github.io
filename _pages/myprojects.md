@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/
-title: projects
+permalink: /Projects/
+title: Projects
 description: This page contains a list of major projects I am/was involved in.
 nav: true
 nav_order: 3
