@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Assistant professor, <a href=https://ptuk.edu.ps/en/faculties/department.php?name=computer-systems-engineering>Computer System Engineering Department. PTUK</a>.
