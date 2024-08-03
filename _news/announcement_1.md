@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-05-15 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+"TAO at StanceEval2024 Shared Task: Arabic Stance Detection using AraBERT" is accepted to appear at ACL 2024 (CORE Rank: A*)!
